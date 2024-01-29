@@ -4,8 +4,8 @@ Thumbs.db
 Desktop.ini
 
 # Python
-*.pyc
-*.pyo
+.pyc
+.pyo
 __pycache__/
 
 # Visual Studio Code
