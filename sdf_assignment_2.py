@@ -58,7 +58,17 @@ print(character_list)
 # combined list 
 combined_list = list + character_list
 print(combined_list)
+
+
 #TUPLES
+
+#  initialize a tuple with the names of 4 Canadian provinces
+canadian_provinces = ("Manitoba", "Ontario", "British Columbia", "Alberta")
+print(canadian_provinces)
+
+
+# Verify the data type of the tuple
+print(type(canadian_provinces))
 
 #DICTIONARIES
 
