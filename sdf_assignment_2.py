@@ -121,4 +121,11 @@ print(difference_set_1)
 difference_set_2 = multiples_of_5_set.difference(even_numbers_set)
 print(difference_set_2)
 
+#PEP8
+"""
+PEP8 - compliant program
 
+This program demonstrate the creation and manipulation of sets , lists , dictoraries and tuples in python.
+It adherto PEP8 coding standards and includes comments for better understanding.
+
+"""
